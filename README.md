@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedabozeid98
 - 👀 I’m interested in python , data analysis , machine learning , Natural language processing , data science , web scraping ,sql , data visualization , data cleaning
-- 🌱 I’m currently learning Deep learning , Bert
+- 🌱 I’m currently learning Deep learning , Transformers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ahmedabozeid9824@gmail.com
 
